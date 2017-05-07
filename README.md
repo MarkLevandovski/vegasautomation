@@ -1,12 +1,12 @@
 Project structure:
 
-root/ -> protractor.conf.js file with configuration of the test
-pages/ -> Page Object classes
-test/ -> test scenarios
+- root/ -> protractor.conf.js file with configuration of the test
+- pages/ -> Page Object classes
+- test/ -> test scenarios
 
 How to run:
-Pre-requisites:
-Install:
+- Pre-requisites:
+- Install:
 - Node.js on you PC
 - Protractor by command "npm install -g protractor"
 - screenshot reporter by command "npm install protractor-html-screenshot-reporter"
